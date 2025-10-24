@@ -36,8 +36,6 @@ python src/ml/train.py
 python run.py
 ```
 
-See [QUICKSTART.md](QUICKSTART.md) for detailed instructions.
-
 ## Usage
 
 **API Documentation:** http://localhost:8000/docs
